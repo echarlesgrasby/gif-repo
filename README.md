@@ -1,6 +1,6 @@
 # gif-repo
 
-[Send Mail!](./kenshin_mail.gif)
+![Send Mail!](./kenshin_mail.gif)
 
 Repo to house a bunch of old-style GIFs that I want to keep around. These were _all over_ the Internet when I was a kid, and I would like to keep some of them around for nostalgia :smiley:. I might even use some of these in personal projects. 
 
